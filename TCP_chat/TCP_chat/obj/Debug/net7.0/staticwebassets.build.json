@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2eJdDZuzUijPudz4cgFmwn67bk63pnHxLLdQ3HNYuD4=",
+  "Source": "TCP_chat",
+  "BasePath": "_content/TCP_chat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
